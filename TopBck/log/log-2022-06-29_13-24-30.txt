@@ -1,0 +1,8 @@
+06/29/2022 13:24:30
+0 wurden von '"C:\Users\vmadmin\OneDrive - sluz\Desktop\M122\TopSrc"' nach '"C:\Users\vmadmin\OneDrive - sluz\Desktop\M122\TopBck"' verschoben:
+
+"C:\Users\vmadmin\OneDrive - sluz\Desktop\M122\TopSrc":
+
+"C:\Users\vmadmin\OneDrive - sluz\Desktop\M122\TopBck":
+
+Ist erfolgreich: True
